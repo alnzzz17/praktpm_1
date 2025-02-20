@@ -1,10 +1,10 @@
 # Tugas 1 Praktikum Teknologi dan Pemrograman Mobile
 
 Oleh:
-Erllyta Rachma Alifiah (123220008)
+Erllyta Rachma Alifiah (123220008)<br />
 Praktikum Teknologi dan Pemrograman Mobile IF-B
 
-Tugas:
+Tugas:<br />
 Buatlah sebuah aplikasi sederhana dan sekreatif mungkin menggunakan Flutter dengan ketentuan sebagai berikut:
 1. Memiliki minimal 1 widget view yang menampilkan konten (bisa berupa gambar/yang lainnya). 
 2. Terdapat AppBar sebagai bagian atas aplikasi (minimal ada title dan 1 actions). 
